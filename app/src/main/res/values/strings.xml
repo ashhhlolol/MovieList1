@@ -13,4 +13,9 @@
         <item>M18</item>
         <item>R21</item>
     </string-array>
+    <string name="btnUpdate">UPDATE</string>
+    <string name="btnDelete">DELETE</string>
+    <string name="btnCancel">CANCEL</string>
+    <string name="id">Movie ID</string>
+    <string name="btnShowAll">SHOW ALL PG-13 MOVIES</string>
 </resources>
